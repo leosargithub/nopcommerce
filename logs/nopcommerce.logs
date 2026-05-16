@@ -124,3 +124,23 @@
 2026-05-08 16:40:13 - INFO - ************ Test_03_Add_New_Customer started ************
 2026-05-08 16:40:14 - INFO - ************ Login completed ************
 2026-05-08 16:40:14 - INFO - ************ Starting add customer test ************
+2026-05-16 13:12:06 - INFO - ************ Test_03_Add_New_Customer started ************
+2026-05-16 13:12:08 - INFO - ************ Login completed ************
+2026-05-16 13:12:08 - INFO - ************ Starting add customer test ************
+2026-05-16 13:12:32 - INFO - ********Test_admin_login**********
+2026-05-16 13:12:32 - INFO - ********title verification of admin logs**********
+2026-05-16 13:12:33 - INFO - ********title verification of admin are matched **********
+2026-05-16 13:13:48 - INFO - test data is failed
+2026-05-16 15:50:49 - INFO - ************ Test_03_Add_New_Customer started ************
+2026-05-16 15:50:51 - INFO - ************ Login completed ************
+2026-05-16 15:50:51 - INFO - ************ Starting add customer test ************
+2026-05-16 15:51:15 - INFO - ********Test_admin_login**********
+2026-05-16 15:51:15 - INFO - ********title verification of admin logs**********
+2026-05-16 15:51:16 - INFO - ********title verification of admin are matched **********
+2026-05-16 15:51:43 - INFO - test data is failed
+2026-05-16 20:20:21 - INFO - ************ Test_03_Add_New_Customer started ************
+2026-05-16 20:20:23 - INFO - ************ Login completed ************
+2026-05-16 20:20:23 - INFO - ************ Starting add customer test ************
+2026-05-16 20:20:28 - INFO - ********Test_admin_login**********
+2026-05-16 20:20:28 - INFO - ********title verification of admin logs**********
+2026-05-16 20:20:29 - INFO - ********title verification of admin are matched **********

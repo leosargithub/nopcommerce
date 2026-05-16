@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
-from base_pages.Login_Admin_Page import Login_Admin_page
+from base_pages.Login_Admin_Page import Login_Admin_Page
 from utilities.read_properties import Read_Config
 from utilities.custom_logs import log_maker
 from utilities import excel_utils
@@ -41,7 +41,7 @@ class TestAdminDataDrivenLogin:
         self.driver.implicitly_wait(10)
         self.driver.get(self.admin_page_url)
 
-        self.admin_lp = Login_Admin_page(self.driver)
+        self.admin_lp = Login_Admin_Page(self.driver)
 
         self.rows = excel_utils.get_row_count(self.path, "Sheet2")
         print("num of rows", self.rows)
